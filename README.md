@@ -1,6 +1,6 @@
 # UK-Train-Stations-PowerBI
 
-This project leverages data from ticket transactions at UK train stations to create interactive visualizations using Power BI. The .pbix file contains various charts, maps, and slicers for analyzing ticket sales by station and ticket type. The data source is: Maven Analytics Data Playground.
+This project leverages data from ticket transactions at UK train stations to create interactive visualizations using Power BI. The .pbix file contains various charts, maps, and slicers for analyzing ticket sales by station and ticket type.
 
 Step 1: Introduction and Description
 This Power BI project visualizes ticket transaction data from UK train stations. It includes interactive dashboards that provide insights into ticket sales by station and ticket type. You'll find dynamic charts, maps, and filters to help you explore the dataset effectively.
